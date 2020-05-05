@@ -1,0 +1,9 @@
+! use left_alt key as mode_switch key
+remove mod1 = Alt_L
+keycode 64 = Mode_switch
+
+! 4 arrow
+keycode 31 = i I Up Up
+keycode 44 = j J Left Left
+keycode 45 = k K Down Down
+keycode 46 = l L Right Right
